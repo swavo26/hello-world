@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Rico Randall's Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello, Leah Renee Randall !!   </h1>
+<h2> I hope your day is going well today... </h2>
+<h2> ... and that you learned alot from home! </h2>
